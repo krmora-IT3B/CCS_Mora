@@ -11,7 +11,7 @@
     <!-- Custom CSS -->
     <style>
         body {
-            background-color: #ffee58ff; 
+            background-color: #ffea5e; 
             font-family: 'Segoe UI', sans-serif;
             display: flex;
             justify-content: center;

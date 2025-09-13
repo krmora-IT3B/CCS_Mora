@@ -14,12 +14,12 @@
 
     <form action="#" method="POST" class="mx-auto" style="max-width: 500px;">
         <div class="mb-3 text-start">
-            <label class="form-label">Please enter your name:</label>
+            <label class="form-label">Enter your name:</label>
             <input type="text" name="name" class="form-control" required>
         </div>
 
         <div class="mb-3 text-start">
-            <label class="form-label">Please enter Email:</label>
+            <label class="form-label">Enter your email:</label>
             <input type="email" name="email" class="form-control" required>
         </div>
 
