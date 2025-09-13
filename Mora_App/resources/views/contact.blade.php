@@ -38,15 +38,15 @@
 @endsection
 
 @section('script')
-<script>
-    document.addEventListener("DOMContentLoaded", () => {
-        console.log("Contact Page Loaded");
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            console.log("Contact Page Loaded");
 
-        const form = document.querySelector("form");
-        form.addEventListener("submit", function(e) {
-            e.preventDefault();
-            alert("Form submitted successfully!");
+            const form = document.querySelector("form");
+            form.addEventListener("submit", function(e) {
+                e.preventDefault();
+                alert("Form submitted successfully!");
+            });
         });
-    });
-</script>
+    </script>
 @endsection
